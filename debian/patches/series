@@ -8,3 +8,4 @@ svcgssd-fix-use-after-free.patch
 svcgssd-display-principal-if-set.patch
 svcgssd-document-missing-options.patch
 nfs-conf-manpage-missing-svcgssd-options.patch
+blkmapd-fix-invalid-free.patch
